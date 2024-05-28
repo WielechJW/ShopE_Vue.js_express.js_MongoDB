@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Szablon TODO na dzień",
+      "description": "Szablon pdf pomagajcy w zorganizowaniu swojej pracy w ciagu dnia",
+      "kategoria": "PDF",
+      "cena": 0.00,
+      "dostepnosc": true
+    },
+    {
+      "id": 2,
+      "name": "Szablon TODO na tydzień",
+      "description": "Szablon pdf pomagajcy w zorganizowaniu swojej pracy w ciagu miesiąca",
+      "kategoria": "PDF",
+      "cena": 0.00,
+      "dostepnosc": true
+    },
+    {
+      "id": 3,
+      "name": "Szablon TODO na miesiąc",
+      "description": "Szablon pdf pomagajcy w zorganizowaniu swojej pracy w ciagu miesiąca",
+      "kategoria": "PDF",
+      "cena": 0.00,
+      "dostepnosc": true
+    }   
+  ]
+  
